@@ -1,8 +1,8 @@
+const { envs } = require('./config/env')
 
 const main = () => {
-    console.log('Aqui comenzamos el servidor');
+    console.log(envs);
 }
-
 
 //Funcion agnostica (sin nombre)
 // Autoconvocada porque se ejecuta con los parentesis al final
