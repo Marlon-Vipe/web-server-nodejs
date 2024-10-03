@@ -1,5 +1,5 @@
-const { envs } = require('./config/env') // Traemos las variables de entorno
-const { startServer } = require('./server/server')
+import { envs } from './config/env.js' // Traemos las variables de entorno
+import { startServer } from './server/server.js'
 
 const main = () => {
     startServer({
