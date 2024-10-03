@@ -1,5 +1,4 @@
-**# Web Server en NodeJS**
-Web server where we serve a page
+**# Web Server in NodeJS**
 
 ## How to use it?
 1. You have to clone the repository `git clone https://github.com/Marlon-Vipe/web-server-nodejs`
